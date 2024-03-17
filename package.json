@@ -1,0 +1,14 @@
+{
+  "name": "tea-npm",
+  "version": "1.0.0",
+  "description": "An OSS progect for TEA testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "",
+  "license": "ISC"
+}
